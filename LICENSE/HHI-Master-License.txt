@@ -1,0 +1,24 @@
+HOLLOW HOUSE INSTITUTE — MASTER LICENSE
+
+All contents of this repository, including but not limited to text, diagrams,
+conceptual frameworks, terminology, and structural models, are the intellectual
+property of Hollow House Institute.
+
+This repository is published as a canonical public reference. Reading and
+citation are permitted.
+
+Any of the following require explicit prior written authorization from
+Hollow House Institute:
+
+- Commercial use
+- Derivative standards or frameworks
+- Implementation of governance systems based on this material
+- Training, fine-tuning, or embedding into AI systems
+- Redistribution in compiled or modified form
+
+Unauthorized use may constitute infringement of intellectual property rights.
+
+This license governs all Longitudinal Behavioral Governance (LBG) materials
+unless otherwise stated.
+
+© Hollow House Institute. All rights reserved.
