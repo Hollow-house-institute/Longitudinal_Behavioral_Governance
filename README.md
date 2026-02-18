@@ -1,5 +1,16 @@
 # Longitudinal Behavioral Governance (LBG)
 
+Role: Longitudinal behavioral governance framework (time-based risk logic)
+Authority Tier: Tier 1 (Governance Standards)
+Depends On: Hollow_House_Standards_Library
+Does Not Define: Canonical terminology, licensing terms, datasets
+Governance Status: Canonical
+
+Authority Links:
+- Hollow_House_Standards_Library (canonical definitions)
+- SPEC-001 Longitudinal Behavioral Audit Framework (HHI-SPEC-001)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
+
 **Structured Human Intelligence**  
 **Time turns behavior into infrastructure.**
 
