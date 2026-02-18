@@ -65,3 +65,9 @@ See: `LICENSE/HHI-Master-License.txt`
 
 > LBG defines the behavioral risk surface.  
 > HHI-GOV-01 specifies the minimum structural requirements to control it.
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
