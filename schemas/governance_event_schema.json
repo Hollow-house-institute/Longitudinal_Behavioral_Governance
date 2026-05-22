@@ -1,0 +1,17 @@
+{
+  "event_id":"string",
+  "timestamp":"ISO-8601",
+  "actor":"string",
+  "system":"string",
+  "session_id":"string",
+  "trace_id":"string",
+  "decision_boundary":"string",
+  "behavioral_drift_score":"number",
+  "escalation_level":"string",
+  "intervention_status":"string",
+  "stop_authority":"string",
+  "action":"string",
+  "outcome":"string",
+  "evidence_hash":"string",
+  "runtime_source":"string"
+}
