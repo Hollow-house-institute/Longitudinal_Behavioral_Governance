@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "service.name": "hhi_longitudinal_behavioral_governance"
+  },
+  "scopeMetrics": [
+    {
+      "scope": {
+        "name": "governance.telemetry"
+      },
+      "metrics": [
+        {
+          "name": "behavioral_drift_score",
+          "description": "Behavioral governance drift telemetry",
+          "unit": "score"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "evt-runtime-001",
+      "decision_boundary": "STOP_AUTHORITY",
+      "escalation_level": "HIGH",
+      "outcome": "ESCALATED",
+      "runtime_source": "local-runtime"
+    }
+  ]
+}
